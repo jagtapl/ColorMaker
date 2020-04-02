@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "fbc09fc59aaa92c5562dc16abb95fb40"
+build_time: [1585869126, 567491000]
+inputs:
+  "/Users/jagtap_lalit/Start iOS Nano/ColorMaker/ColorMaker/ViewController.swift": [1585869123, 609623685]
+  "/Users/jagtap_lalit/Start iOS Nano/ColorMaker/ColorMaker/AppDelegate.swift": [1585869123, 605620619]
+  "/Users/jagtap_lalit/Start iOS Nano/ColorMaker/ColorMaker/SceneDelegate.swift": [1585869123, 608132252]
